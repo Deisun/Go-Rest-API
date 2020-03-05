@@ -2,7 +2,6 @@ package controllers
 
 import (
 	"fmt"
-	"github.com/gorilla/mux"
 	"myBigNerdRanchProject/models"
 	"net/http"
 )
